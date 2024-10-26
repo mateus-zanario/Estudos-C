@@ -4,10 +4,11 @@
 int main()
 {
   /*
+  Definiçãao:
   O comando break permite interromper a repetição
-  de qualquer comando de laço(while, for ou do-while)
+  de qualquer comando de laço(while, for ou do-while).
 
-  forma geral:
+  Forma geral:
   repetição(condição1){
     if(condição2){
     break;

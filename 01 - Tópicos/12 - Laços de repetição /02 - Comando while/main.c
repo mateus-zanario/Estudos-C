@@ -4,10 +4,11 @@
 int main()
 {
   /*
+  Definição:
   O comando while permite executar, repetidamente,
-  um conjunto de comandos acordo com uma condição
+  um conjunto de comandos acordo com uma condição.
 
-  forma geral:
+  Forma geral:
   while(condição) {
     conjunto de comandos;
   }

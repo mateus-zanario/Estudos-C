@@ -4,11 +4,12 @@
 int main()
 {
   /*
+  Definição:
   O comando switch permite fazer seleções
   multiplas com base no valor de uma variável
-  do tipo int ou char
+  do tipo int ou char.
 
-  forma geral:
+  Forma geral:
   switch(variável) {
     case valor1:
       conjunto de comandos;

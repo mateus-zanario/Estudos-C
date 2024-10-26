@@ -4,11 +4,12 @@
 int main()
 {
   /*
+  Definição:
   O aninhamento de repetições trata-se do uso
   de um comando de repetição(while, for ou
-  do-while) dentro de um outro
+  do-while) dentro de um outro.
 
-  forma geral:
+  Forma geral:
   repetição(condição1) {
     conjunto de comandos;
     repetição(condição2) {

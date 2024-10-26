@@ -4,10 +4,11 @@
 int main()
 {
   /*
+  Definição:
   O comando for permite executar, repetidamente,
-  um conjunto de comandos de acordo com uma condição
+  um conjunto de comandos de acordo com uma condição.
 
-  forma geral:
+  Forma geral:
   for(inicialização; condição; incremento) {
     conjunto de comandos;
   }

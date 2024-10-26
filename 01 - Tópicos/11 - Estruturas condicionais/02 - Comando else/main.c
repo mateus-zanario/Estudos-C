@@ -4,11 +4,12 @@
 int main()
 {
   /*
-  O comando else:
-  permite executar um segundo conjunto de
-  comandos se a condifição do comando if for falsa
+  Definição:
+  O comando else permite executar um
+  segundo conjunto de comandos se a
+  condifição do comando if for falsa.
 
-  forma geral:
+  Forma geral:
   if(condição) {
     primeiro conjunto de comandos;
   } else {

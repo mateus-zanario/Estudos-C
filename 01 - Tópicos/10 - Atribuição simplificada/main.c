@@ -4,7 +4,7 @@
 int main()
 {
   /*
-  atribuição simplificadda:
+  Atribuição simplificadda:
   variável "operação=" expressão;
   variável = variiável "operação" expressão;
   */

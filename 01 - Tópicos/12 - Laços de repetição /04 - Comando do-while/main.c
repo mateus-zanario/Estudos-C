@@ -4,11 +4,12 @@
 int main()
 {
   /*
+  Definição:
   O comando do-while permite executar, repetidamente
   e AO MENOS UMA VEZ, um conjunto de comandos de acordo
-  com uma condição
+  com uma condição.
 
-  forma geral:
+  Forma geral:
   do {
     conjunto de comandos;
   } while(condição);

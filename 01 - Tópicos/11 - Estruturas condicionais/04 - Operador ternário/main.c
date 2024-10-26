@@ -4,11 +4,11 @@
 int main()
 {
   /*
-  Operador ternário(?):
-  É tipicamente usado para fazer
-  atribuições condicionais.
+  Definição:
+  O operador ternário(?) é tipicamente
+  usado para fazer atribuições condicionais.
 
-  forma geral:
+  Forma geral:
   variável = condição ? expressão1 : expressão2;
   */
 

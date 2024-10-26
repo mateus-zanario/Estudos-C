@@ -4,11 +4,11 @@
 int main()
 {
   /*
-  O comando if:
-  permite executar ou não um conjunto de
-  comandos de acordo com uma condição
+  Definição:
+  O comando if permite executar ou não um
+  conjunto de comandos de acordo com uma condição.
 
-  forma geral:
+  Forma geral:
   if(condição) {
     conjunto de comandos;
   }

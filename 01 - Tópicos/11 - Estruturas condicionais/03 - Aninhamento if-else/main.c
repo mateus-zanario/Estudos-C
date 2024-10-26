@@ -4,9 +4,10 @@
 int main()
 {
   /*
-  Aninhamento if-else:
-  trata-se do uso de outro comando if
-  dentro de um comando if ou else
+  Definição:
+  O aninhamento if-else trata-se do
+  uso de outro comando if dentro de
+  um comando if ou else.
 
   Exemplo:
   if(condição1) {

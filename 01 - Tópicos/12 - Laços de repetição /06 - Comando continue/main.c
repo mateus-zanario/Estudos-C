@@ -4,11 +4,12 @@
 int main()
 {
   /*
+  Definição;
   O comando continue permite interromper a repetição
   atual de qualquer comando de laço(while, for ou do-while)
-  e avança para a próxima repetição
+  e avança para a próxima repetição.
 
-  forma geral:
+  Forma geral:
   repetição(condição1) {
     if(condição2){
       continue;
