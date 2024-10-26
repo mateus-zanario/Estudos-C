@@ -12,6 +12,6 @@ int main()
   // função para pausar o programa
   system("pause"); // comando da biblioeca auxiliar
 
-  // o último comando dos nosso programa sempre será retun 0
+  // o último comando dos nosso programa sempre será return 0
   return 0;
 }
