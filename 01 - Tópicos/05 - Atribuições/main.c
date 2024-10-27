@@ -9,7 +9,7 @@ int main()
   y = x + 10; // atribuição com uma expressão matemática
 
   // alguns erros em atribuição:
-  // 5 = y; -> ordem errada
+  // 5 = y; -     > ordem errada
   // x + 10 = y; -> ordem errada
 
   // atribuições múltiplas:

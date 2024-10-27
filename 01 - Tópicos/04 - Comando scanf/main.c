@@ -3,19 +3,23 @@
 
 int main()
 {
-  // declaração de variáveis
-  // char letra;
-  // int num;
-  // float x;
-  // double y;
+  /*
+  Definição:
+  O cmando scanf permite a leitura de dados
+  do teclado para guardar em variáveis.
 
-  // leitura de dados do teclado para guardar nas variáveis
-  // scanf("Tipos de entrada", &variável);
-  // semrpre usar o "&" antes do nome da variável
-  // scanf("%c", &letra); %c = caracter
-  //  scanf("%d", &num);  %d = inteiro
-  // scanf("%f", &x);     %f = real(float e double)
-  // scanf("%f", &y);     %f = real(float e double)
+  Forma geral:
+  scanf("Tipos de entrada", &variável);
+
+  Exemplos:
+  scanf("%c", &letra); %c = caracter
+  scanf("%d", &num);   %d = inteiro
+  scanf("%f", &x);     %f = real(float e double)
+  scanf("%f", &y);     %f = real(float e double)
+
+  Importante:
+  Semrpre usar o "&" antes do nome da variável.
+  */
 
   // exemplo 1:
   // declaração da variável

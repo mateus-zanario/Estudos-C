@@ -4,20 +4,20 @@
 int main()
 {
   /*
-  forma geral:
-  valor1 "operador_relacional" valor2
-
-  resultado da comparação:
-  0: a comparação é falsa
-  1: a comparação é verdadeira
-
-  operadores relacionais:
+  Operadores relacionais:
   >   "Maior do que"
   >=  "Maior ou igual"
   <   "Menor do que"
   <=  "Menor ou igual"
   ==  "Igual a"
   !=  "Diferente de"
+
+  Forma geral:
+  valor1 "operador_relacional" valor2
+
+  Resultado da comparação:
+  0: a comparação é falsa
+  1: a comparação é verdadeira
   */
 
   // exemplos:

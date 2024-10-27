@@ -4,11 +4,11 @@
 int main()
 {
   // declaração de variáveis
-  char letra = 'm'; // Usar aspas simples para um único caractere
+  char letra = 'm';
   int num_1 = 10;
   float num_2 = 5.25;
 
-  // comando para imprimir no console tudo que estiver entre aspas
+  // impressão no console de tudo que estiver entre aspas
   printf("Meu programa em C\n");
   printf("%c \n", letra); // %c = caracteres
   printf("%d \n", letra); // %d = inteiros (vai imprimir o valor ASCII de 'm')
