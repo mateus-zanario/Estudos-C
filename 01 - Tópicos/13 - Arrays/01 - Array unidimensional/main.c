@@ -6,7 +6,7 @@ int main()
 {
   /*
   Definição:
-  O array(ou vetor) é um conjunto de variáveis
+  Um array(ou vetor) é um conjunto de variáveis
   do mesmo tipo usando o mesmo nome.
 
   Forma geral:
