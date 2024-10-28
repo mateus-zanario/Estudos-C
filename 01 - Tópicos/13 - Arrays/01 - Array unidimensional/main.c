@@ -30,7 +30,7 @@ int main()
   notas[1] = 55;    -> Segundo índice
   notas[99] = 72;   -> Último índice
 
-  Cada posição de um array é uma variável:
+  Alguns comandos:
   float notas[100], vetor[100];
   scanf("%d", &notas[5]);         -> leitura
   notas[0] = 10;                  -> atribuição
