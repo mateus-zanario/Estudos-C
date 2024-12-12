@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/mateusmartinez/Documents/Estudos em C/02 - Exercícios/05 - Exercícios com structs/Ex. 02/output/main"
+relocations:     []
+...
