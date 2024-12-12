@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
-#define PI 3.1415 // primeira forma de declarar uma constante(substituição durante a compilação)
+// primeira forma de declarar uma constante(substituição durante a compilação)
+#define PI 3.1415
 
 int main()
 {

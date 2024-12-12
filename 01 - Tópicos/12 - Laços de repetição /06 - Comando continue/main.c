@@ -4,7 +4,7 @@
 int main()
 {
   /*
-  Definição;
+  Definição:
   O comando continue permite interromper a repetição
   atual de qualquer comando de laço(while, for ou do-while)
   e avança para a próxima repetição.
